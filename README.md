@@ -1,7 +1,7 @@
 # Hi 👋, I'm Navya V
 
 ## 🎓 About Me
-- 💻 Third Year Computer Science Engineering Student
+- 💻 Second Year Computer Science Engineering Student
 - 🌱 Currently learning Python, Java, Full Stack Development, and Data Structures
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI
 - 🎯 Preparing for GATE 2027
