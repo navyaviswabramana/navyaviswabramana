@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Navya V
 
-<!--
-**navyaviswabramana/navyaviswabramana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 💻 Third Year Computer Science Engineering Student
+- 🌱 Currently learning Python, Java, Full Stack Development, and Data Structures
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI
+- 🎯 Preparing for GATE 2027
+- 🚀 Looking for Internship Opportunities
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- Java
+- HTML
+- CSS
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Full Stack Development
+- AI & Machine Learning
+- Java+DSA
+
+## 🚀 Projects
+- AI Traffic Queue Analysis and Rule Violation Detection
+- EdTech Learning Workflow Bot
+
+## 🎯 Goals for 2026
+- Build 10+ Projects
+- Improve DSA Skills
+- Contribute to Open Source
+- Secure a Software Development Internship
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/viswabramhana-navyasree-4000bb418?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: navyamtlm@gmail.com
+
+⭐ Thanks for visiting my profile!
+
